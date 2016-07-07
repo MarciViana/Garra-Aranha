@@ -6,7 +6,7 @@ Desenvolvido por: Luiza && Marcela <br>
 Sistema Suportado: LINUX <br>
 Bibliotecas utilizadas no jogo: GLEW,FREEGLUT,SOIL,SFML(AUDIO) <br>
 
-Instalação das bibliotecas no Linux: 
+Instalação das bibliotecas no Linux: <br>
   	sudo apt-get install build-essential <br>
 	sudo apt-get install freeglut3-dev <br>
   	sudo apt-get install libglew1.6-dev <br>
