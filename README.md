@@ -1,2 +1,5 @@
-# Garra-Aranha
-Jogo criado por Luiza dos Anjos e Marcela Viana para a disciplina de Computação Gráfica
+# CG - Trabalho Prático 02
+
+<h2>A Aranha</h2>
+
+Desenvolvido por: Luiza && Marcela
